@@ -1,7 +1,7 @@
 ## Cayo Tor
 ### Solidity Auditor and Blockchain Researcher
 
-### Blog Posts
+### 📟 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Talking to Ethereum - Smart Contracts to Opcodes](https://medium.com/coinsbench/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1)
 - [Ethereum Smart Contract Upgradeability](https://medium.com/coinsbench/how-can-ethereums-immutable-smart-contracts-be-upgraded-a4b582893f29)
