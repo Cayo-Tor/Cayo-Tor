@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/@CayoTor/list/solidity-development-ethereum-e460138c6c2c, https://medium.com/@CayoTor/list/blockchain-fundamentals-734834c6827b"
+          feed_list: "https://medium.com/@CayoTor/list/solidity-development-ethereum-e460138c6c2c"
