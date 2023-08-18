@@ -1,26 +1,3 @@
-<style>
-a img.hover {
-    display: none;
-}
-a img.default {
-    display: inherit;
-}
-a:hover img.hover {
-    display: inherit;
-}
-a:hover img.default {
-    display: none;
-}
-
-.background {
-  background-image: url('https://im4.ezgif.com/tmp/ezgif-4-27f77a6365.gif');
-  background-position: center;
-  background-size: 30%;
-  overflow: hidden;
-
-}
-</style>
-
 <div class="background">
   <!-- your website content here -->
 <h1> Cayo Tor
@@ -157,3 +134,26 @@ To learn and grow I actively participate in capture the flags, auditing competit
 [wallet]: s
 [linkedin]: s
 [discord]: s
+
+
+<style>
+a img.hover {
+    display: none;
+}
+a img.default {
+    display: inherit;
+}
+a:hover img.hover {
+    display: inherit;
+}
+a:hover img.default {
+    display: none;
+}
+
+.background {
+  background-image: url('https://im4.ezgif.com/tmp/ezgif-4-27f77a6365.gif');
+  background-position: center;
+  background-size: 30%;
+  overflow: hidden;
+}
+</style>
