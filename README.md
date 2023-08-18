@@ -149,7 +149,8 @@ a:hover img.hover {
 a:hover img.default {
     display: none;
 }
-
+</style>
+<style>
 .background {
   background-image: url('https://im4.ezgif.com/tmp/ezgif-4-27f77a6365.gif');
   background-position: center;
