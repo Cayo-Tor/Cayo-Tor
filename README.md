@@ -1,7 +1,7 @@
 <div class="background">
   <!-- your website content here -->
 <h1> Cayo Tor
-        <a href="https://www.linkedin.com/in/cayofletcher-smith/">
+        <a href="https://www.researchgate.net/profile/Cayo_Fletcher-Smith">
             <img align="right" class="default" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png"/>
         </a>
         <a href="https://medium.com/@CayoTor">
