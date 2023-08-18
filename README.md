@@ -145,12 +145,11 @@ To learn and grow I actively participate in capture the flags, auditing competit
 
 ## 📟 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Talking to Ethereum - Smart Contracts to Opcodes](https://medium.com/coinsbench/talking-to-ethereum-smart-contracts-to-opcodes-3fc53a8de7d1)
-- [Ethereum Smart Contract Upgradeability](https://medium.com/coinsbench/how-can-ethereums-immutable-smart-contracts-be-upgraded-a4b582893f29)
-- [Essential ERC Standards Every Developer Should Know](https://medium.com/coinsbench/essential-erc-standards-every-developer-should-know-3de3fec969e5)
-- [Understanding Address Types - A Comparison of Bitcoin, Ethereum and Cardano](https://medium.com/coinmonks/understanding-address-types-a-comparison-of-bitcoin-ethereum-and-cardano-45354a8ceb68)
-- [Flash Loans Explained in 5 Minutes](https://medium.com/coinmonks/flash-loans-explained-in-5-minutes-8f9c0468d9f5)
-- [Blockchain State Models](https://medium.com/coinsbench/blockchain-state-models-explained-ea708fe7a4f2)
+- [Puppet | Lvl 8| Damn Vulnerable Defi v3 &lpar;Explained&rpar;](https://coinsbench.com/puppet-lvl-8-damn-vulnerable-defi-v3-explained-c084952ad371?source=rss-41779a71b611------2)
+- [Compromised v3 | Lvl 7 | Damn Vulnerable Defi &lpar;Explained&rpar;](https://medium.com/@CayoTor/compromised-v3-lvl-7-damn-vulnerable-defi-explained-f3608a59dadb?source=rss-41779a71b611------2)
+- [Selfie v3 | Lvl 6| Damn Vulnerable Defi &lpar;Explained&rpar;](https://medium.com/@CayoTor/selfie-v3-lvl-6-damn-vulnerable-defi-explained-4d2c046b9e1e?source=rss-41779a71b611------2)
+- [The Rewarder | Lvl 5| Damn Vulnerable Defi &lpar;Explained&rpar;](https://medium.com/@CayoTor/the-rewarder-lvl-5-damn-vulnerable-defi-explained-e0bc000d6c0?source=rss-41779a71b611------2)
+- [Side-Entrance v3 | Lvl 4| Damn Vulnerable Defi &lpar;Explained&rpar;](https://coinsbench.com/side-entrance-v3-lvl-4-damn-vulnerable-defi-explained-3e8d3528243c?source=rss-41779a71b611------2)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: s
