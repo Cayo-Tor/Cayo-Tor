@@ -23,7 +23,7 @@
 
 I'm a blockchain researcher, Solidity smart contract auditor, and overall technology enthusiast. My focus is primarily on Ethereum security, with an emphasis on tooling (fuzzing) and bug bounties; although I have exposure in layer-one consensus design, and byzantine mechanism architecture.
 
-Alongside my pursuit for technological impact, I enjoy playing games, creating technical web 3.0 content, and travelling.
+Alongside my pursuit of technological impact, I enjoy playing games, creating technical web 3.0 content, and traveling.
 
 ## My Stack
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white)
@@ -87,7 +87,7 @@ I'm an active member in the smart contract security space. I can be found on Med
 <br>
 <br>
 
-To learn and grow I actively participate in capture the flags, auditing competitions and workshops.
+To learn and grow I actively participate in capture the flags, auditing competitions, and workshops.
 
 #### My Stats
 <details>
@@ -124,9 +124,3 @@ To learn and grow I actively participate in capture the flags, auditing competit
 - [The Rewarder | Lvl 5| Damn Vulnerable Defi &lpar;Explained&rpar;](https://medium.com/@CayoTor/the-rewarder-lvl-5-damn-vulnerable-defi-explained-e0bc000d6c0?source=rss-41779a71b611------2)
 - [Side-Entrance v3 | Lvl 4| Damn Vulnerable Defi &lpar;Explained&rpar;](https://coinsbench.com/side-entrance-v3-lvl-4-damn-vulnerable-defi-explained-3e8d3528243c?source=rss-41779a71b611------2)
 <!-- BLOG-POST-LIST:END -->
-
-[blog]: s
-[twitter]: s
-[wallet]: s
-[linkedin]: s
-[discord]: s
