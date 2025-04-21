@@ -10,9 +10,6 @@
         <a href="https://twitter.com/0xCayo">
             <img align="right" class="default" width="25px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-53-189787.png?f=avif&w=256"/>
         </a>
-        <a href="https://etherscan.io/address/0x233adaaE8A5A04893D6BF6F64A0C74cafF53Abc0">
-            <img align="right" class="default" width="25px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-ethereum-8-645838.png?f=avif&w=256"/>
-        </a>
         <a href="https://www.linkedin.com/in/cayofletcher-smith/">
             <img align="right" class="default" width="25px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-42-151143.png?f=avif&w=256"/>
         </a>
